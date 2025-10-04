@@ -138,7 +138,7 @@ Capserve/
 
 **Option A: Using Git (Recommended)**
 ```bash
-git clone <repository-url>
+git clone https://github.com/aryanchavan30/crm-voice-agent-capserv.git
 cd Capserve
 ```
 
